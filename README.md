@@ -9,13 +9,13 @@ Você pode acessar o projeto diretamente pelo GitHub Pages:
 
 ## 📌 Funcionalidades
 - Inserir o ano de nascimento e verificar a idade.  
-- Identificação automática de gênero.  
+- Identificação de gênero.  
 - Exibição de imagem correspondente à idade e gênero.  
-- Interface simples e responsiva.
+- Interface simples.
 
 ## 🛠️ Tecnologias utilizadas
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**
 
-## 📂 Estrutura do projeto
+
