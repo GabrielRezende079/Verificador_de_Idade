@@ -1,0 +1,75 @@
+body{
+    font: normal 15px arial;
+    background-color: rgb(45, 143, 255);
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 20px black;
+    
+}
+
+footer{
+     color: white;
+     text-align: center;
+     font-style: italic;
+     background-color: rgb(0, 0, 0);
+     bottom: 0;
+     position: fixed;
+     width: 100%;
+     margin: 0%;
+     padding: 0%;
+     left: 0px;
+     font-size: 10pt;
+}
+
+div#entrada{
+    text-align: center;
+}
+
+
+div#sexo-container{
+
+    margin-top: 20px;
+    text-align: center;
+}
+
+#btnVerificar{
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(32, 84, 144);
+    color: white;
+    font-weight: bold;
+}
+
+
+div#res{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+label{
+    font-weight: bold;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 15px black;
+}
